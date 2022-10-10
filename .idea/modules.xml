@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Day-01/Day-01.iml" filepath="$PROJECT_DIR$/Day-01/Day-01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day-02/Day-02.iml" filepath="$PROJECT_DIR$/Day-02/Day-02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day-03/Day-03.iml" filepath="$PROJECT_DIR$/Day-03/Day-03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day-04/Day-04.iml" filepath="$PROJECT_DIR$/Day-04/Day-04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day-05/Day-05.iml" filepath="$PROJECT_DIR$/Day-05/Day-05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day-06/Day-06.iml" filepath="$PROJECT_DIR$/Day-06/Day-06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day-07/Day-07.iml" filepath="$PROJECT_DIR$/Day-07/Day-07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.bethegnt.iml" filepath="$PROJECT_DIR$/com.bethegnt.iml" />
+    </modules>
+  </component>
+</project>
