@@ -2,15 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="74d04cbc-e470-4b26-819c-b7a524cefad4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Day-05/src/Delete_an_element_from_array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day-05/src/Find_an_element_in_array.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day-03/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Day-03/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day-04/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Day-04/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day-08/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Day-08/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day-05/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -36,7 +43,14 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Delete_an_element_from_array">
+    <configuration name="Delete_an_element_from_array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Delete_an_element_from_array" />
+      <module name="Day-05" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Day-08" />
@@ -60,6 +74,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Delete_an_element_from_array" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.objects (1)" />
         <item itemvalue="Application.objects" />
