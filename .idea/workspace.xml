@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="74d04cbc-e470-4b26-819c-b7a524cefad4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Day-05/src/ArrayQ1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day-05/src/Finding_Second_Largest_Element.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day-05/src/Finding_maximum_element.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day-05/src/Finding_sum_of_an_element.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day-05/src/Searching_an_Element.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day-05/src/Rotating_an_array.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day-05/src/Largest_Element_in_array.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
