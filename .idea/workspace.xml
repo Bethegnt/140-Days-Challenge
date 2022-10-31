@@ -2,11 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="74d04cbc-e470-4b26-819c-b7a524cefad4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Day-02/src/Increment_decrement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day-02/src/OddOrEven.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day-02/src/areaOfCircle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day-02/src/largestOf2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day-03/src/IncomeTaxCalc.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +41,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.areaOfCircle">
     <configuration name="ArrayQ1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayQ1" />
       <module name="Day-05" />
