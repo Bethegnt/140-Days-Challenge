@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="74d04cbc-e470-4b26-819c-b7a524cefad4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Day-18/src/Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day-18/src/Linear_search.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day-18/src/Order_agnostic_binary_search.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day-18/src/binary_search.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day-18/src/largest_array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day-18/src/largest_num.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day-17/src/decimal_biary.java" beforeDir="false" afterPath="$PROJECT_DIR$/Day-17/src/decimal_biary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day-18/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +48,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.areaOfCircle">
+  <component name="RunManager">
     <configuration name="ArrayQ1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayQ1" />
       <module name="Day-05" />
