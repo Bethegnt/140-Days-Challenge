@@ -182,7 +182,6 @@ In theJava nested if statement, it is also possible to use the if-else statement
 
 <img width="596" alt="Nested-if Statement" src="https://user-images.githubusercontent.com/106432362/194346799-37f3191d-7d04-4eaa-b3be-20cdbd8e549e.png">
 
-kcvje vorwev jwq
 
 
 
