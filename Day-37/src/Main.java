@@ -1,11 +1,13 @@
 public class Main {
     public static void main(String args[]) {
-        System.out.println("This is first case of code");
-        System.out.println("this is end case of code");
+        System.out.println("this is first code for main");
+        m1();
+        System.out.println("this is end code for main");
     }
 
-    public static void system(String args[]) {
-        System.out.println("this is start for system");
-        System.out.println("this is end point for system");
+    public static void m1(){
+        System.out.println("this is my code for m1");
+        System.out.println("this is end code for m1");
     }
 }
+

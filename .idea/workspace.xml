@@ -2,9 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="74d04cbc-e470-4b26-819c-b7a524cefad4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Day-36/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day-37/src/Funtion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day-38/Day-38.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day-38/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day-39/Day-39.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day-39/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day-40/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day-37/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Day-37/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
