@@ -2,19 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="74d04cbc-e470-4b26-819c-b7a524cefad4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Day-44/Day-44.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day-44/src/EvenAndOdd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day-44/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day-45/Day-45.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day-45/src/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day-45/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day-46/Day-46.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day-46/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day-46/src/NameAddress.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day-46/src/SwapTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SwappingWithoutThirdvalue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day-47/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day-41/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Day-41/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
