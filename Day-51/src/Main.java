@@ -5,6 +5,7 @@ public class Main {
 
         System.out.println((og==og2) + " "+ (og.equals(og2)));
         return ;
+        // string print
 
      //  System.out.println("Hello world!");
     }
