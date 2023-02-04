@@ -1,5 +1,15 @@
 public class Main {
-    public static void main(String[] args) {
-        System.out.println("Hello world!");
+    public void eat(){
+        System.out.println("i am eating");
+    }
+    class dog {
+        public void main(String[] args) {
+            dog d = new dog();
+//            d.eat();
+
+
+
+
+        }
     }
 }
