@@ -2,26 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="74d04cbc-e470-4b26-819c-b7a524cefad4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Day-60/Day-60.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day-60/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day-61/Day-61.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day-61/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day-62/Day-62.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day-62/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day-62/src/poly_case01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day-63/Day-63.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day-63/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day-63/src/poly_case02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day-63/src/poly_case03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day-64/Day-64.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day-64/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day-65/Day-65.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day-65/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day-66/Day-66.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day-66/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day-67/Day-67.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day-67/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day-68/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day-54/src/OddAndEven.java" beforeDir="false" afterPath="$PROJECT_DIR$/Day-54/src/OddAndEven.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day-56/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Day-56/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day-57/src/Animals.java" beforeDir="false" afterPath="$PROJECT_DIR$/Day-57/src/Animals.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day-58/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Day-58/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day-58/src/multilevel_inhrtnce.java" beforeDir="false" afterPath="$PROJECT_DIR$/Day-58/src/multilevel_inhrtnce.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day-59/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Day-59/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day-59/src/multilevel_inheritance.java" beforeDir="false" afterPath="$PROJECT_DIR$/Day-59/src/multilevel_inheritance.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +33,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2FxTY9toyxFT4hL5HaDSRxb8YF2" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -81,9 +72,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="areaOfCircle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="areaOfCircle" />
-      <module name="Day-02" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Day-64" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -104,11 +95,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main$Main2" />
         <item itemvalue="Application.Main$Main3" />
         <item itemvalue="Application.multilevel_inhrtnce$multilevel2$multilevel3" />
         <item itemvalue="Application.multilevel_inhrtnce$multilevel2" />
-        <item itemvalue="Application.areaOfCircle" />
       </list>
     </recent_temporary>
   </component>
