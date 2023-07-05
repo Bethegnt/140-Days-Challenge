@@ -184,8 +184,6 @@ In theJava nested if statement, it is also possible to use the if-else statement
 
 
 
-
-
 ## **Switch Statement** :
 In Java, Switch statements are similar to if-else-if statements. The switch statement contains multiple blocks of code called cases and a single case is executed based on the variable which is being switched. The switch statement is easier to use instead of if-else-if statements. 
 
