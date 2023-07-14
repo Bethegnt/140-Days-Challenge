@@ -14,6 +14,7 @@ public class conditional_questions {
         }else {
             salary = salary + 1000;
         }
+
         System.out.println(salary);
     }
 }
