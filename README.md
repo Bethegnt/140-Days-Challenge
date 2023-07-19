@@ -176,7 +176,7 @@ The if else ladder statement is a set of conditions which is based on “Nested 
 
 
 **Nested if-statement** :
-In theJava nested if statement, it is also possible to use the if-else statements inside an if-else statement.
+It is also possible to use the if-else statements inside an if-else statement.
 
 <img width="520" alt="Syntax Java Nested-if Statement" src="https://user-images.githubusercontent.com/106432362/194313778-b8d841f0-42eb-4933-90ed-1aea703ddcec.png">
 
