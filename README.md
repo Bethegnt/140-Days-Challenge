@@ -139,7 +139,7 @@ Java provides statements that can be used to control the flow of Java code. Such
 Decision-making statements evaluate the Boolean expression and control the program flow depending upon the result of the condition provided.
 
 1) If Statement:
-In Java, the "if" statement is used to evaluate a condition. The control of the program is diverted depending upon the specific condition. 
+   the "if" statement is used to evaluate a condition. The control of the program is diverted depending upon the specific condition. 
 
 - Simple if statement
 - if-else statement
