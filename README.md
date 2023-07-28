@@ -184,9 +184,3 @@ It is also possible to use the if-else statements inside an if-else statement.
 
 
 
-## **Switch Statement** :
-In Java, Switch statements are similar to if-else-if statements. The switch statement contains multiple blocks of code called cases.
-
-<img width="520" alt="Switch Case Statement" src="https://user-images.githubusercontent.com/106432362/194346591-2c6a29c0-521a-4794-abbf-c637184dfe29.png">
-
-
